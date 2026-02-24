@@ -8,6 +8,7 @@ __pycache__/
 *.pyo
 .venv/
 venv/
+multiagent_env/
 
 # IDE
 .vscode/
